@@ -1,9 +1,9 @@
 {
-"code": -1,
+"code": 0,
 "fre": 1,
-"name": "",
-"des": "",
-"pk_name": "",
-"ic": "",
+"name": "Music Downloader - Free Mp3 Downloader",
+"des": "Please download the latest version, the old version can no longer be updated",
+"pk_name": "com.downloadmusic.downloadto.mp3music",
+"ic": "https://image.winudf.com/v2/image1/Y29tLmRvd25sb2FkbXVzaWMuZG93bmxvYWR0by5tcDNtdXNpY19pY29uXzE2MTc5MTY3OTVfMDIy/icon.png?w=170&fakeurl=1",
 "inal_time": 120000
 }
